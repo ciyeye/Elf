@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="elf:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/elf_jar</output-path>
+    <root id="archive" name="elf.jar">
+      <element id="module-output" name="elf" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jnativehook-2.2.2.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/jnativehook-2.2.2.jar" />
+    </root>
+  </artifact>
+</component>
