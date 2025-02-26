@@ -1,4 +1,4 @@
-package src.helper;
+package helper;
 
 import com.github.kwhat.jnativehook.GlobalScreen;
 import com.github.kwhat.jnativehook.NativeHookException;
